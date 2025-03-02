@@ -8,3 +8,5 @@ TESlA
 
 TOOLS
 BSM - Black Scholes model with heatmap for S and K ranges
+Binomial pricing model in python soooooooonn
+Greeks calculator too
