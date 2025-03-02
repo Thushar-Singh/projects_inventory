@@ -1,2 +1,2 @@
 # projects_inventory
-ALL the projects till now
+ALL the projects till now (excluding acedemic research)
